@@ -209,34 +209,39 @@ body {
 
 }
 
-.s-img{
+.s-img {
     width: 100%;
 }
-.s-content{
+
+.s-content {
     width: 25%;
     padding: 30px 30px 30px;
     text-align: center;
     float: left;
     margin-right: 30px;
-    
-    
+
+
 }
 
-.s-content h2{
+.s-content h2 {
     font-size: 25px;
 }
-.s-content p{
+
+.s-content p {
     line-height: 25px;
     font-size: 18px;
     font-weight: 500;
 }
-.green{
-    background-color: #76D7C4 ;
+
+.green {
+    background-color: #76D7C4;
 }
-.pink{
+
+.pink {
     background-color: pink;
 }
-.yellow{
+
+.yellow {
     background-color: #A9CCE3;
 }
 
@@ -247,3 +252,38 @@ body {
 
 
 /* donate plan end */
+
+/* volunteer start */
+.volunteer {}
+
+.v-h3 {
+    text-align: center;
+    color: skyblue;
+    font-weight: 700;
+    font-size: 20px;
+   
+}
+
+.v-h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 28px;
+}
+.ash{
+    background-color: #C0C0C0;
+}
+
+.k-h1{
+    color: tomato;
+}
+.k-h3{
+    text-transform: capitalize;
+}
+.v-img{
+   text-align: center;
+}
+.c-p{
+    padding-left: 25px;
+}
+
+/* volunteer end */
