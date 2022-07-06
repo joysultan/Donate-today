@@ -69,8 +69,6 @@ body {
 }
 
 
-
-
 /* banner end */
 
 /* donate start */
@@ -115,9 +113,6 @@ body {
     float: left;
     /* border: 1px solid orange; */
     padding-left: 350px;
-
-
-
 
 }
 
@@ -245,12 +240,6 @@ body {
     background-color: #A9CCE3;
 }
 
-
-
-
-
-
-
 /* donate plan end */
 
 /* volunteer start */
@@ -261,7 +250,7 @@ body {
     color: skyblue;
     font-weight: 700;
     font-size: 20px;
-   
+
 }
 
 .v-h1 {
@@ -269,21 +258,103 @@ body {
     font-weight: 700;
     font-size: 28px;
 }
-.ash{
+
+.ash {
     background-color: #C0C0C0;
 }
 
-.k-h1{
+.k-h1 {
     color: tomato;
 }
-.k-h3{
+
+.k-h3 {
     text-transform: capitalize;
 }
-.v-img{
-   text-align: center;
+
+.v-img {
+    text-align: center;
 }
-.c-p{
+
+.c-p {
     padding-left: 25px;
 }
 
 /* volunteer end */
+
+
+/* updates start */
+
+.container {
+    width: 60%;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+
+.form {
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.form-section {
+    text-align: center;
+    margin-left: 260px;
+    
+   
+   
+    
+
+}
+
+.form input {
+    width: 35%;
+    float: left;
+    /* margin-right: 40px; */
+    padding: 15px 30px;
+    background-color: #BEBDBC;
+    border-radius: 5px;
+    
+    border: none;
+}
+.form input:focus{
+    outline: none;
+}
+
+.subscribe {}
+
+.u-btn {
+    width: 10%;
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 13px 40px;
+    /* border: 1px solid blue; */
+    float: left;
+    transition: .3s;
+    
+}
+.u-btn:hover{
+    background-color: black;
+    color: white;
+}
+
+/* updates end */
+
+/* footer start */
+footer{
+    background-color: black;
+    padding: 40px;
+    text-align: center;
+
+}
+footer h2{
+    color: orangered;
+    font-style: italic;
+
+}
+footer p{
+    color: white;
+}
+/* footer end */

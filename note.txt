@@ -1,0 +1,13 @@
+.form-section {
+    text-align: center;
+    margin-left: 260px;
+   
+    
+
+}
+   <div class="email">
+                        <input type="email" placeholder="Email">
+                    </div>
+                    <div class="subscribe">
+                        <a class="u-btn" href="#">Subscribe</a>
+                    </div>
